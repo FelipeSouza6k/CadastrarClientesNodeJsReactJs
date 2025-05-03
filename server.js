@@ -1,5 +1,5 @@
 import express from 'express';
-import { PrismaClient } from './generated/prisma/index.js'; // Certifique-se de que o caminho está correto
+import { PrismaClient } from './generated/prisma/index.js';
 ;
 import cros from 'cors';
 
